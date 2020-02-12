@@ -26,5 +26,4 @@
 2. Ao12:
 3. Ao25: 
 
-
-![Pyraminx Duo]()
+![][image_ref_a32ff4ads]
