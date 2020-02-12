@@ -8,7 +8,6 @@
 1. First Method: Match all outside colors with a different center, line up the uneven colors, RCW, LCCW, RCCW, LCW. Beginner method.
 2. Second Method: Orientates the center piece so that it can be solved in under four moves. Moves vary.
 ###### Date: February 12, 2020
-###### Date: February 12, 2020
 1. Ao5: 6.72
 2. Ao12: 5.85
 3. Ao25: 5.47
