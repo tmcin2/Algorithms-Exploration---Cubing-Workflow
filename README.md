@@ -6,7 +6,7 @@
 ###### Can I solve: Yes
 ###### Methods used: 
 1. First Method: Match all outside colors with a different center, line up the uneven colors, RCW, LCCW, RCCW, LCW. Beginner method.
-2. Second Method: Orientates the center piece so that it can be solved in under four moves. Moves vary.
+2. Second Method: Orientates the center piece so that it can be solved in under four moves. Moves vary. Advanced method.
 ###### Date: February 12, 2020
 1. Ao5: 6.72
 2. Ao12: 5.85
