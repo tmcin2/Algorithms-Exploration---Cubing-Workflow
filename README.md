@@ -12,7 +12,7 @@
 2. Ao12: 5.85
 3. Ao25: 5.47
 
-#### Type of Cube: 2x2
+#### Type of Cube: Pyramidex
 ###### Can I solve: No
 ###### Method used: 
 ###### Date:
@@ -20,7 +20,7 @@
 2. Ao12:
 3. Ao25: 
 
-#### Type of Cube: 3x3
+#### Type of Cube: Scube
 ###### Can I solve: No
 ###### Method used: 
 ###### Date:
@@ -28,4 +28,4 @@
 2. Ao12:
 3. Ao25: 
 
-![][image_ref_a32ff4ads]
+<img src="">
