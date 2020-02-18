@@ -28,4 +28,18 @@
 2. Ao12:
 3. Ao25: 
 
+### Mean of 3 Attempts with verified score (Verified by Joshua Braddon):
+###### Mean of 3 using pyraminx duo: 7.32
+###### Mean of 3 using pyraminx duo. Blindfolded: 12.32s
+
 <img src="">
+
+Sources Cited: 
+1. https://www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx
+2. https://easycube3.net/solve-pyraminx-step-1-2.php
+3. https://www.instructables.com/id/Solving-the-Pyraminx-Faster-and-Simpler/
+4. https://www.youtube.com/watch?v=xB9OFNyi-Uk&feature=emb_title
+5. https://www.youtube.com/watch?v=P-Zt7GEyYuE&feature=emb_title
+6. https://www.youtube.com/watch?v=I6132yshkeU&feature=emb_title
+7. https://about.gitlab.com/handbook/engineering/ux/technical-writing/markdown-guide/
+8. https://www.cstimer.net/timer.php
