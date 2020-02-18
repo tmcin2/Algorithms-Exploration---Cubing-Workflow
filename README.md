@@ -13,17 +13,17 @@
 3. Ao25: 5.47
 
 #### Type of Cube: Pyramidex
-###### Can I solve: No
-###### Method used: 
-###### Date:
-1. Ao5: 
-2. Ao12:
+###### Can I solve: Yes
+###### Method used: Solved by layers, using keyhole to fix any outlying pieces
+###### Date: February 18, 2020
+1. Ao5: 3:14
+2. Ao12: 4:05
 3. Ao25: 
 
 #### Type of Cube: Scube
-###### Can I solve: No
+###### Can I solve: Yes
 ###### Method used: 
-###### Date:
+###### Date: February 21, 2020
 1. Ao5: 
 2. Ao12:
 3. Ao25: 
