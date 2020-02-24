@@ -12,13 +12,13 @@
 2. Ao12: 5.85
 3. Ao25: 5.47
 ###### Date: February 13, 2020
-Ao12: 
+Ao12: 4.97
 ###### Date: February 14, 2020
-Ao12: 
+Ao12: 4.74
 ###### Date: February 18, 2020
-Ao12: 
+Ao12: 5.02
 ###### Date: February 19, 2020
-Ao12: 
+Ao12: 4.52
 
 #### Type of Cube: Pyramidex
 ###### Can I solve: Yes
