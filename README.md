@@ -11,6 +11,14 @@
 1. Ao5: 6.72
 2. Ao12: 5.85
 3. Ao25: 5.47
+###### Date: February 13, 2020
+Ao12: 
+###### Date: February 14, 2020
+Ao12: 
+###### Date: February 18, 2020
+Ao12: 
+###### Date: February 19, 2020
+Ao12: 
 
 #### Type of Cube: Pyramidex
 ###### Can I solve: Yes
@@ -19,14 +27,29 @@
 1. Ao5: 3:14
 2. Ao12: 4:05
 3. Ao25: 
-
-#### Type of Cube: Scube
+###### Date: February 19, 2020
+Ao12: 
+###### Date: February 20, 2020
+Ao12: 
+###### Date: February 21, 2020
+Ao12: 
+###### Date: February 24, 2020
+Ao12: 
+#### Type of Cube: Skewb
 ###### Can I solve: Yes
 ###### Method used: 
 ###### Date: February 21, 2020
 1. Ao5: 
 2. Ao12:
 3. Ao25: 
+###### Date: February 24, 2020
+Ao12:
+###### Date: February 25, 2020
+Ao12:
+###### Date: February 26, 2020
+Ao12:
+###### Date: February 27, 2020
+Ao12:
 
 ### Mean of 3 Attempts with verified score (Verified by Joshua Braddon):
 ###### Mean of 3 using pyraminx duo: 7.32
