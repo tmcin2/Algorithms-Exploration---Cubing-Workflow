@@ -53,8 +53,6 @@ Ao12: 1:33.27
 ###### Mean of 3 using pyraminx duo: 7.32
 ###### Mean of 3 using pyraminx duo. Blindfolded: 12.32s
 
-<img src="">
-
 Sources Cited: 
 1. https://www.kewbz.co.uk/blogs/solutions/how-to-solve-a-pyraminx
 2. https://easycube3.net/solve-pyraminx-step-1-2.php
