@@ -22,7 +22,8 @@ Ao12: 4.52
 
 #### Type of Cube: Pyramidex
 ###### Can I solve: Yes
-###### Method used: Solved by layers, using keyhole to fix any outlying pieces
+###### Method used:
+Solved by layers, using keyhole to fix any outlying pieces
 ###### Date: February 18, 2020
 1. Ao5: 3:14.63
 2. Ao12: 2:55.84
@@ -37,7 +38,8 @@ Ao12: 1:49.25
 Ao12: 1:33.27
 #### Type of Cube: Skewb
 ###### Can I solve: Yes
-###### Method used: Mostly use sledgehammer, with the occasional 180 degree spin.
+###### Method used: 
+Mostly use sledgehammer, with the occasional 180 degree spin.
 ###### Date: February 21, 2020
 1. Ao5: 52.38
 2. Ao12: 46.74
