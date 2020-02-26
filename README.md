@@ -25,8 +25,8 @@ Ao12: 4.52
 ###### Method used: Solved by layers, using keyhole to fix any outlying pieces
 ###### Date: February 18, 2020
 1. Ao5: 3:14.63
-2. Ao12: 4:05.84
-3. Ao25: 2:05.17
+2. Ao12: 2:55.84
+3. Ao25: 2:15.17
 ###### Date: February 19, 2020
 Ao12: 1:04.25
 ###### Date: February 20, 2020
