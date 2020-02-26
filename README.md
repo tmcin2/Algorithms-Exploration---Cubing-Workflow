@@ -43,12 +43,12 @@ Ao12: 1:33.27
 2. Ao12: 46.74
 3. Ao25: 48.12
 ###### Date: February 24, 2020
-Ao12: 34.87
-Ao12: 38.43
+1. Ao12: 34.87
+2. Ao12: 38.43
 ###### Date: February 26, 2020
-Ao12: 33.64
-Ao12: 39.73
-Ao12: 34.57
+1. Ao12: 33.64
+2. Ao12: 39.73
+3. Ao12: 34.57
 ### Mean of 3 Attempts with verified score (Verified by Joshua Braddon):
 ###### Mean of 3 using pyraminx duo: 7.32
 ###### Mean of 3 using pyraminx duo. Blindfolded: 12.32s
