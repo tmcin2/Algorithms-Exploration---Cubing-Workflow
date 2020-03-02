@@ -64,3 +64,5 @@ Sources Cited:
 6. https://www.youtube.com/watch?v=I6132yshkeU&feature=emb_title
 7. https://about.gitlab.com/handbook/engineering/ux/technical-writing/markdown-guide/
 8. https://www.cstimer.net/timer.php
+
+Tyler McIntyre
